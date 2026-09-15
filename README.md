@@ -1,1 +1,1 @@
-# Aula 5 git Pull request.
+# Loja online v2 (ajustes do dev 2 insano)
