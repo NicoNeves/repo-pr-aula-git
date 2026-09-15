@@ -1,5 +1,5 @@
 export const Home = () => {
     return (
-        "Desenvolvendo minha tela home. / ajustes no login"
+        "Desenvolvendo minha tela home. / ajustes"
     )
 }
